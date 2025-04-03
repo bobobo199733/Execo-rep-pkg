@@ -15,5 +15,5 @@ Each of the folders listed above are described in details in the remaining of th
 
 ### Stage1-Literature-Review
 
-    |--- Google Scholar - Contains the CSV file containing the paper's citations, collected during the execution of the search query: "(intitle:"large language models" OR intitle:"LLMs" OR intitle:"AI") AND (intitle:"explainability") AND ("transparency" OR "interpretability" OR "fidelity" OR "simulatability" OR "actionability" OR "robustness") AND ("models" OR "guidelines" OR "frameworks" OR "methodologies" OR "approaches" OR "strategies") AND ("trustworthy" OR "trust" OR "user trust") AND after:2019" on the date of: "03/04/2025".   
+    |--- Google-Scholar - Contains the CSV file containing the paper's citations, collected during the execution of the search query: "(intitle:"large language models" OR intitle:"LLMs" OR intitle:"AI") AND (intitle:"explainability") AND ("transparency" OR "interpretability" OR "fidelity" OR "simulatability" OR "actionability" OR "robustness") AND ("models" OR "guidelines" OR "frameworks" OR "methodologies" OR "approaches" OR "strategies") AND ("trustworthy" OR "trust" OR "user trust") AND after:2019" on the date of: "03/04/2025".   
    
